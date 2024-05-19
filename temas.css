@@ -1,0 +1,35 @@
+.caja{
+width: 95%;
+height: 1100px ;
+background-color: gray;
+display: flex;
+flex-direction: column;
+}
+
+.renovable{
+width:95%;
+height: 1100px;
+background-color: aquamarine;
+
+}
+
+.fuerte{
+width: 95%;
+height: 1100px;
+background-color: burlywood;
+
+}
+
+.tipos{
+width: 95%;
+height: 1100px;
+background-color: rgb(168, 224, 111);
+
+}
+
+.energia{
+width: 95%;
+height: 1100px;
+background-color: darkslateblue;
+
+}
